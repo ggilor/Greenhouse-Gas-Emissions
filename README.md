@@ -1,2 +1,5 @@
 # Greenhouse-Gas-Emissions
-An EDA project that examines worldwide greenhouse gas emissions throughout the years
+Summary: This project analyzes global CO₂ and greenhouse gas emissions over time from the perspective of a climate activist aiming to influence environmental policy. The analysis focuses on identifying which countries and sources contribute most to global emissions. The dataset was cleaned to remove non-country entries and outdated cumulative columns. Data prior to 1958 was excluded to align with the period when atmospheric greenhouse gas measurements became reliable. The notebook includes exploratory data analysis, visualization of emission trends, and insights into global emission patterns and policy implications.
+Link to the World Bank's page that include the original database: https://data360.worldbank.org/en/dataset/OWID_C
+Learning Experience: From my beginning of my learning in Datacamp, I've realized that I have the tools for something that can help solve a problem, and not just offering a dry collection of data. Datacamp's comprehensive courses and materials allowed me to pick an ambitious subject for my project, knowing I have what it takes to succeed. 
+
